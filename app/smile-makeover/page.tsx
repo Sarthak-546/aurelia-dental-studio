@@ -17,7 +17,7 @@ import type { Metadata } from "next";
 /* ------------------------------------------------------------------ */
 
 export const metadata: Metadata = generatePageMetadata({
-  title: "Smile Makeover in Beverly Hills",
+  title: "Smile Makeover in Bandra West, Mumbai",
   description:
     "A smile makeover at Aurelia Dental Studio combines veneers, whitening, and cosmetic treatments into a personalised plan — designed with Digital Smile Design and delivered with artistic precision.",
   path: "/smile-makeover",

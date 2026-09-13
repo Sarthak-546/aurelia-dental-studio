@@ -18,12 +18,12 @@ export const SITE_CONFIG = {
     "Aurelia Dental Studio offers comprehensive dental care in a warm, modern environment. From preventive hygiene to cosmetic transformations, our experienced team delivers personalized treatment with an artistic touch.",
   url: "https://www.aureliadental.studio",
   ogImage: "/og-image.webp",
-  phone: "(555) 123-4567",
-  phoneLink: "tel:+15551234567",
-  email: "hello@aureliadental.studio",
-  address: "123 Serenity Lane, Beverly Hills, CA 90210",
+  phone: "+91 22 4862 7100",
+  phoneLink: "tel:+912248627100",
+  email: "hello@aureliadentalstudio.in",
+  address: "3rd Floor, Aurelia Health Centre, 14 Turner Road, Bandra West, Mumbai, Maharashtra 400050",
   mapsUrl:
-    "https://www.google.com/maps/search/123+Serenity+Lane+Beverly+Hills+CA+90210",
+    "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent("3rd Floor, Aurelia Health Centre, 14 Turner Road, Bandra West, Mumbai, Maharashtra 400050, India"),
   social: {
     instagram: "https://instagram.com/aureliadental",
     facebook: "https://facebook.com/aureliadental",
