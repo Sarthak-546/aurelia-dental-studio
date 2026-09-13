@@ -1,0 +1,68 @@
+import type { GalleryImage } from "@/types/gallery";
+
+export const galleryImages: GalleryImage[] = [
+  {
+    id: "gallery-01",
+    src: "/images/gallery/reception.webp",
+    alt: "Aurelia Dental Studio reception with warm oak panelling and natural light",
+    category: "Reception",
+    width: 1600,
+    height: 1067,
+  },
+  {
+    id: "gallery-02",
+    src: "/images/gallery/treatment-room.webp",
+    alt: "Modern operatory with large window overlooking leafy Bandra West",
+    category: "Treatment Room",
+    width: 1600,
+    height: 1200,
+  },
+  {
+    id: "gallery-03",
+    src: "/images/gallery/waiting-area.webp",
+    alt: "Cosy plant-filled waiting area with eucalyptus-green seating",
+    category: "Waiting Area",
+    width: 1600,
+    height: 1067,
+  },
+  {
+    id: "gallery-04",
+    src: "/images/gallery/ceramic-mill.webp",
+    alt: "In-house CEREC CAD/CAM milling unit fabricating a crown from zirconia",
+    category: "Equipment",
+    width: 1600,
+    height: 1067,
+  },
+  {
+    id: "gallery-05",
+    src: "/images/gallery/cbct-scanner.webp",
+    alt: "Cone-beam CT scanner for 3D implant and orthodontic planning",
+    category: "Equipment",
+    width: 1600,
+    height: 1200,
+  },
+  {
+    id: "gallery-06",
+    src: "/images/gallery/clinical-team.webp",
+    alt: "Dentists and clinical coordinators in matching teal scrubs",
+    category: "Staff",
+    width: 1600,
+    height: 1067,
+  },
+  {
+    id: "gallery-07",
+    src: "/images/gallery/sterilisation-suite.webp",
+    alt: "Sterilisation corridor with autoclaves and sealed instrument pouches",
+    category: "Interior",
+    width: 1600,
+    height: 1067,
+  },
+  {
+    id: "gallery-08",
+    src: "/images/gallery/consultation-studio.webp",
+    alt: "Private consultation studio with smile design monitor",
+    category: "Interior",
+    width: 1600,
+    height: 1200,
+  },
+];
